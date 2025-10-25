@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
---platform=nvidia/cuda:10.1-cudnn7-devel-ubuntu18.04
+--platform=nvidia/cuda 10.1-cudnn7-devel-ubuntu18.04
